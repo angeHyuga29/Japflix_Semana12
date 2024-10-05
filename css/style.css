@@ -26,3 +26,11 @@ main {
 .offcanvas-top{
     height: fit-content;
 }
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover h5 {
+    color: red; 
+}
